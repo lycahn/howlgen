@@ -50,4 +50,4 @@ Issues and bugs are more than welcome, as they help to improve the plugin.
 
 [CONTRIBUTING](/.github/CONTRIBUTING.md)
 
-[LICENSE (MIT)](/LICENSE)
+[LICENSE (MIT)](https://github.com/lycahn/howlgen?tab=MIT-1-ov-file)
