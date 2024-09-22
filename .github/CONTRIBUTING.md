@@ -2,14 +2,15 @@
 
 ## Introduction
 
-First, thank you for considering contributing to my plugin! It's people like you that make the open source community such a great community! 😊
+First, thank you for considering contributing to our plugin! It's people like you that make the open source family such a great community! 😊
 
 We welcome any type of contribution, not only code. You can help with
 
 - **QA**: file bug reports, the more details you can give the better
 - **Marketing**: writing blog posts, howto's, printing stickers, ...
 - **Community**: presenting the project at meetups, organizing a dedicated meetup for the local community, ...
-- **Code**: take a look at the [open issues](https://github.com/szymonwilczek/random-username/issues). Even if you can't write code, commenting on them, showing that you care about a given issue matters. It helps us triage them.
+- **Code**: take a look at the [open issues](https://github.com/lycahn/howlgen/issues).
+  Even if you can't write code, commenting on them, showing that you care about a given issue matters. It helps us triage them.
 - **Money**: we welcome financial contributions in full transparency.
 
 ## Submitting code
