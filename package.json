@@ -1,10 +1,10 @@
 {
   "name": "@lycahn/howlgen",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "description": "Tool for generating random mostly forest-based creatures as usernames.",
   "main": "dist/random-username.cjs.production.min.js",
   "module": "dist/random-username.esm.js",
-  "types": "dist/random-username.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "rollup -c"
   },
@@ -20,8 +20,8 @@
   "author": "Szymon Wilczek",
   "license": "MIT",
   "dependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
     "@rollup/plugin-typescript": "^11.1.5",
-    "rollup-plugin-terser": "^7.0.2",
     "terser": "^5.24.0"
   },
   "devDependencies": {
