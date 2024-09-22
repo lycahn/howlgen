@@ -1,0 +1,36 @@
+{
+  "name": "@lycahn/howlgen",
+  "version": "1.3.3",
+  "description": "Tool for generating random mostly forest-based creatures as usernames.",
+  "main": "dist/random-username.cjs.production.min.js",
+  "module": "dist/random-username.esm.js",
+  "types": "dist/random-username.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szymonwilczek/polish-random-username.git"
+  },
+  "keywords": [
+    "random",
+    "username",
+    "polish",
+    "generator"
+  ],
+  "author": "Szymon Wilczek",
+  "license": "MIT",
+  "dependencies": {
+    "@rollup/plugin-typescript": "^11.1.5",
+    "rollup-plugin-terser": "^7.0.2",
+    "terser": "^5.24.0"
+  },
+  "devDependencies": {
+    "rollup": "^2.79.1",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "typescript": "^4.9.5"
+  }
+}
