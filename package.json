@@ -5,20 +5,16 @@
   "main": "dist/random-username.cjs.production.min.js",
   "module": "dist/random-username.esm.js",
   "types": "dist/random-username.d.ts",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "scripts": {
     "build": "rollup -c"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/szymonwilczek/polish-random-username.git"
+    "url": "git+https://github.com/lycahn/howlgen.git"
   },
   "keywords": [
     "random",
     "username",
-    "polish",
     "generator"
   ],
   "author": "Szymon Wilczek",
