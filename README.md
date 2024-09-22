@@ -24,13 +24,13 @@ npm install @lycahn/howlgen
 Create a project and import the plugin:
 
 ```js
-import { getRandomUsername } from "howlgen";
+import { getRandomUsername } from "@lycahn/howlgen";
 ```
 
 or
 
 ```js
-const { getRandomUsername } = require("howlgen");
+const { getRandomUsername } = require("@lycahn/howlgen");
 ```
 
 Then you can call it like this:
