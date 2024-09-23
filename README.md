@@ -1,7 +1,9 @@
 [npm]: https://img.shields.io/npm/v/%40lycahn%2Fhowlgen
 [npm-url]: https://www.npmjs.com/package/@lycahn/howlgen
+[downloads]: https://img.shields.io/npm/d18m/%40lycahn%2Fhowlgen
 
 [![npm][npm]][npm-url]
+[![downloads][downloads]][npm-url]
 
 # howlgen
 
